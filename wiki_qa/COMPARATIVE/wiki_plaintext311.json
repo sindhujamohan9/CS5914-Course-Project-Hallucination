@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Is 1 US wet gallon smaller in volume than 1 imperial gallon?",
+        "answer": "Yes"
+    },
+    "questions": [
+        "Does an imperial gallon have more volume than a US wet gallon?",
+        "Is a US wet gallon less in volume compared to an imperial gallon?",
+        "Is 1 imperial gallon larger than 1 US wet gallon?",
+        "In terms of volume, is 1 US wet gallon smaller than an imperial gallon?",
+        "When comparing volumes, is a US wet gallon smaller than an imperial gallon?",
+        "Compared to an imperial gallon, is a US wet gallon smaller in volume?",
+        "In a redox reaction between volumes of an imperial gallon and a US wet gallon, which one has a  larger volume?",
+        "In terms of volume, does an imperial gallon exceed a US wet gallon?",
+        "Between an imperial gallon and a US wet gallon, which one has a greater volume?",
+        "Does a US wet gallon hold less volume as compared to an imperial gallon?"
+    ],
+    "answers": [
+        "Yes, it is.",
+        "Correct.",
+        "Indeed, it is.",
+        "Yes, that's right.",
+        "Yes, indeed.",
+        "Affirmative.",
+        "Yes, you are correct.",
+        "Correct, an imperial gallon has a larger volume.",
+        "Yes, the volume of a US wet gallon is smaller.",
+        "True."
+    ],
+    "context": "A gallon is a volumetric unit of measurement. People have used many different gallons throughout history. Only two gallons are still commonly used, which are the imperial and U.S. liquid gallon.This is 3,57 liter == Sale of petrol == Petrol, also known as gasoline, is sold by the imperial gallon in four British Overseas Territories (Anguilla, the British Virgin Islands, the Cayman Islands, and Montserrat) and six countries (Antigua and Barbuda, Dominica, Grenada, Saint Christopher and Nevis, Saint Lucia, and Saint Vincent and the Grenadines). All of the countries and territories just mentioned also use miles per hour for speed limits and drive on the left side of the road. Gasoline is sold by the U.S. gallon in Belize, Colombia, Dominican Republic, Ecuador, Guatemala, Haiti, Honduras, Liberia, Nicaragua, and Peru, as well as in the Marshall Islands, Federated States of Micronesia, and Palau. == Sizes == 1 imperial gallonhttps://www.legislation.gov.uk/ukpga/1985/72/schedules = 4.54609 litres (exactly) = 8 imperial pints = 160 imperial fluid ounces \u2248 1.20 U.S. wet gallons \u2248 1.03 U.S. dry gallons = 10 pounds of pure water at 62\u00b0 Fahrenheit 1 U.S. wet gallon = 231 cubic inches = 3 in \u00d7 7 in \u00d7 11 in **This is the gallon commonly used in the US.** = 128 U.S. fl. oz. = 8 U.S. wet pints = of a U.S. oil barrel = 3.785411784 litres (exactly) \u2248 0.83 imperial gallons \u2248 0.86 U.S. dry gallons \u2248 8.33 pounds of pure water at room temperature 1 U.S. dry gallon = 268.8025 cubic inches **Occasionally used in the US.** = 8 U.S. dry pints = of a U.S. bushel = 4.40488377086 litres (exactly) \u2248 0.97 imperial gallons \u2248 1.16 U.S. wet gallons ==References== Category:Imperial units Category:Units of volume"
+}

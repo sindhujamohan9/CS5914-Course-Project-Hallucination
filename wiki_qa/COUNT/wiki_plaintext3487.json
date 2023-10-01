@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "How many provinces in the Netherlands are named 'Holland'?",
+        "answer": "2"
+    },
+    "questions": [
+        "What is the number of provinces named 'Holland' in the Netherlands?",
+        "How many provinces bearing the name 'Holland' exist in the Netherlands?",
+        "What counts the provinces titled 'Holland' in the Netherlands?",
+        "In the Netherlands, how many provinces have 'Holland' in their name?",
+        "Can you count the number of provinces named 'Holland' in the Netherlands?",
+        "Holland is a part of which number of provinces in the Netherlands?",
+        "How many provinces are designated as 'Holland' in the Netherlands?",
+        "In the Netherlands, how many provinces are identified as 'Holland'?",
+        "Count the number of 'Holland' provinces in the Netherlands?",
+        "What is the total number of 'Holland' provinces in the Netherlands?"
+    ],
+    "answers": [
+        "Two",
+        "2 provinces",
+        "They are 2 in total",
+        "The number is 2",
+        "There are 2 Holland provinces in the Netherlands",
+        "Both North and South Holland, so 2",
+        "Holland is present in 2 provinces in the Netherlands",
+        "2, South and North Holland",
+        "Two provinces: South and North Holland are called 'Holland'",
+        "Two: North and South Holland"
+    ],
+    "context": "Holland is the name of a region in the western part of the Netherlands. Holland was a county of the Holy Roman Empire and later the leading province of the Republic of the Seven United Netherlands (1581\u20131795). Today, there is no country called \"Holland\". There are two provinces called \"Holland\" in the Netherlands: North Holland () and South Holland (). Those provinces were created in 1840. The earlier country and province of Holland used to be bigger, but some parts of that province were given to other provinces during the French occupation (1795-1813). For example, Willemstad became part of North Brabant, the islands of Vlieland and Terschelling were given to Friesland, and the island of Urk to Overijssel. But for a short time during that period (1806\u20131810), there was a country called \"Holland\", the Kingdom of Holland, which was in the central and northern Netherlands and East Friesland in Germany. Many people use the name \"Holland\" to refer to all of the Netherlands, including the other ten provinces. That is not correct and is like calling the United Kingdom, \"England\" or \"Great Britain\". Some Dutch people who do not live in Holland do not like it when people call the entire country Holland. But they don't mind using \"Holland\" when you mean the Dutch national football team, which they are used to calling \"Holland\". * Category:Regions of the Netherlands Category:Regions of South Holland Category:North Holland"
+}

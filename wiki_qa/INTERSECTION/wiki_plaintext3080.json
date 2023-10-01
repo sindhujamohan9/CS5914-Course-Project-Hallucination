@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "What league did Portsmouth F.C. play in during the 2005/06 season, and what was their position?",
+        "answer": "Portsmouth F.C. played in the Premier League during the 2005/06 season and they ranked 17th."
+    },
+    "questions": [
+        "Where did Portsmouth F.C. rank in the 2005/06 Premier League?",
+        "In the 2005/06 season, which league did Portsmouth F.C. participate in and what was their final position?",
+        "What was the rank of Portsmouth F.C. in the Premier League during the 2005/06 season?",
+        "In the Premier League, where did Portsmouth F.C. place in the 2005/06 season?",
+        "What was the position of Portsmouth F.C. in the Premier League in the 2005/06 season?",
+        "During the 2005/06 season, what was Portsmouth F.C.'s position in the league they were playing in?",
+        "What league did Portsmouth F.C. play in in 2005/06 and how did they rank?",
+        "Where did Portsmouth F.C. end up in their league standings in the 2005/06 season?",
+        "Which league did Portsmouth F.C. compete in during the 2005/06 season, and what was their standings?",
+        "In the 2005/06 Premier League, what rank did Portsmouth F.C. achieve?"
+    ],
+    "answers": [
+        "Portsmouth F.C. participated in the Premier League during the 2005/06 season where they ended up in the 17th spot.",
+        "During the 2005/06 season, they competed in the Premier League and ranked 17th.",
+        "Portsmouth F.C., in the 2005/06 season, were in the Premier League and came in 17th.",
+        "They participated in the Premier League and secured the 17th position during the 2005/06 season.",
+        "In the Premier League, Portsmouth F.C. held the 17th position in the 2005/06 season.",
+        "For the 2005/06 season, they played in the Premier League and finished 17th.",
+        "Portsmouth F.C. were in the Premier League for the 2005/06 season, and they completed the season in 17th place.",
+        "They were in the Premier League in the 2005/06 season, and they ranked 17th.",
+        "Portsmouth F.C. ended their 2005/06 season in the Premier League at the 17th position.",
+        "The 17th position in the Premier League was held by Portsmouth F.C. during the 2005/06 season."
+    ],
+    "context": "Portsmouth F.C. is an English football club. They play in EFL League One. Their home stadium is called Fratton Park. Portsmouth's manager is John Mousinho. The most famous manager was probably Harry Redknapp who took the team to an FA Cup victory in 2008 which subsequently got the team into the UEFA Europa League (then called the UEFA Cup) for the first time. The club has since been hit with financial problems and see themselves in the fourth tier of English football. They have a big rivalry with a team called Southampton F.C. They are also from Hampshire. == League position == Season League Position 2000/01 First Division 20th 2001/02 First Division 17th 2002/03 First Division Champions 2003/04 Premier League 13th 2004/05 Premier League 16th 2005/06 Premier League 17th 2006/07 Premier League 9th 2007/08 Premier League 8th 2008/09 Premier League 14th 2009/10 Premier League 20th 2010/11 League Championship 16th 2011/12 League Championship 22nd 2012/13 League One 24th === Former position === Category:English football clubs Category:Portsmouth Category:1898 establishments in England"
+}

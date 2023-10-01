@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "What is the farthest you can go in the south?",
+        "answer": "The South Pole"
+    },
+    "questions": [
+        "What is the extremity of south?",
+        "Which place marks the farthest south?",
+        "Where is the maximum South you can travel to on Earth?",
+        "What is the extreme South on Earth?",
+        "What is the furthest point in the south?",
+        "What location is most to the south?",
+        "What is the southernmost point you can visit?",
+        "If you keep traveling south, where will you end up?",
+        "What does the south end with?",
+        "What is definitive south?"
+    ],
+    "answers": [
+        "South Pole",
+        "The South Pole of Earth",
+        "The geographic South Pole",
+        "Earth's South Pole",
+        "The southernmost point on Earth",
+        "Southern Pole of Earth",
+        "Most southern point - The South Pole",
+        "The globe's South Pole",
+        "The Pole in the South",
+        "The extremity of Earth's South - The South Pole"
+    ],
+    "context": "thumb|250px|right|Points of the compass with south highlighted South is one of the 4 cardinal directions on a compass. South is normally down on the bottom of most maps. For example: Angola is to the south of Nigeria, which is itself to the south of Morocco . The South Pole is the farthest south you can go. Category:Basic English 850 words Category:Compass directions"
+}

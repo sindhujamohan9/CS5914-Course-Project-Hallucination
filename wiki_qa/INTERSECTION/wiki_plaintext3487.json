@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "What Dutch provinces originated in 1840 and make up modern-day Holland?",
+        "answer": "North Holland and South Holland"
+    },
+    "questions": [
+        "What region of the Netherlands is made up of two provinces established in 1840?",
+        "What are the names of the two provinces that represent the modern interpretation of Holland?",
+        "Which two provinces make up Holland as we know it today?",
+        "What areas of the Netherlands, created in 1840, are considered Holland?",
+        "Name the provinces established in 1840 that represent Holland today.",
+        "What provinces formed in 1840 presently signify Holland?",
+        "What current Dutch provinces correspond to the historical region of Holland?",
+        "Which two provinces make up what we today refer to as Holland?",
+        "How is Holland represented in the Netherland's provincial structure today?",
+        "Which provinces emerged in 1840 and serve as today's representation of Holland?"
+    ],
+    "answers": [
+        "North Holland and South Holland",
+        "Provinces of North Holland and South Holland",
+        "The provinces of North Holland and South Holland",
+        "South Holland and North Holland",
+        "North and South Holland",
+        "South and North Holland",
+        "Holland which is now North Holland and South Holland",
+        "Current Holland is made up of North and South Holland",
+        "North Holland together with South Holland",
+        "South Holland paired with North Holland"
+    ],
+    "context": "Holland is the name of a region in the western part of the Netherlands. Holland was a county of the Holy Roman Empire and later the leading province of the Republic of the Seven United Netherlands (1581\u20131795). Today, there is no country called \"Holland\". There are two provinces called \"Holland\" in the Netherlands: North Holland () and South Holland (). Those provinces were created in 1840. The earlier country and province of Holland used to be bigger, but some parts of that province were given to other provinces during the French occupation (1795-1813). For example, Willemstad became part of North Brabant, the islands of Vlieland and Terschelling were given to Friesland, and the island of Urk to Overijssel. But for a short time during that period (1806\u20131810), there was a country called \"Holland\", the Kingdom of Holland, which was in the central and northern Netherlands and East Friesland in Germany. Many people use the name \"Holland\" to refer to all of the Netherlands, including the other ten provinces. That is not correct and is like calling the United Kingdom, \"England\" or \"Great Britain\". Some Dutch people who do not live in Holland do not like it when people call the entire country Holland. But they don't mind using \"Holland\" when you mean the Dutch national football team, which they are used to calling \"Holland\". * Category:Regions of the Netherlands Category:Regions of South Holland Category:North Holland"
+}

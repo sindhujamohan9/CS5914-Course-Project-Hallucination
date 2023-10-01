@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Who was the first Yang di-Pertuan Agong?",
+        "answer": "Abdul Rahman of Negeri Sembilan"
+    },
+    "questions": [
+        "Who was installed as the first Yang di-Pertuan Agong?",
+        "Who took the first position of Yang di-Pertuan Agong?",
+        "Who was the initial Yang di-Pertuan Agong?",
+        "Identify the first Yang di-Pertuan Agong?",
+        "Can you tell me who was the first person to become Yang di-Pertuan Agong?",
+        "Who was the inaugural Yang di-Pertuan Agong?",
+        "Who held the position of Yang di-Pertuan Agong first?",
+        "Who was the premier Yang di-Pertuan Agong?",
+        "Who was the foremost Yang di-Pertuan Agong?",
+        "Who started the lineage of the Yang di-Pertuan Agong?"
+    ],
+    "answers": [
+        "Abdul Rahman",
+        "Abdul Rahman of Negeri Sembilan",
+        "Negeri Sembilan's Abdul Rahman",
+        "Rahman, Abdul",
+        "Abdul of Negeri Sembilan",
+        "Yang di-Pertuan Agong Abdul Rahman",
+        "First Yang di-Pertuan Agong Abdul Rahman",
+        "Abdul Rahman, the first Yang di-Pertuan Agong",
+        "Abdul Rahman, Yang di-Pertuan Agong",
+        "Abdul Rahman of Negeri Sembilan, the first Yang di-Pertuan Agong"
+    ],
+    "context": "== Events == * Roentgen discovers X-rays * Marconi invents the wireless telegraph * China and Japan sign the Treaty of Shimonoseki == Births == === January === === February === === March === === April === === May === === June === === July === === August === * August 24 \u2013 Abdul Rahman of Negeri Sembilan, 1st Yang di-Pertuan Agong (d. 1960) === September === === October === * October 8 \u2013 Juan Per\u00f3n, President of Argentina (d. 1974) * October 25 \u2013 Levi Eshkol, 3rd Prime Minister of Israel (d. 1969) === November === === December ==="
+}

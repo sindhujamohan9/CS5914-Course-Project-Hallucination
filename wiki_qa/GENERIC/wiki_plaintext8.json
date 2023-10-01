@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "What is the letter that comes before B and after G in musical notation?",
+        "answer": "The letter A."
+    },
+    "questions": [
+        "What is the symbol for a note in the scale that comes after G and before B?",
+        "In music, which letter symbolizes a note that follows G and precedes B?",
+        "What is the letter used as a musical note between G and B?",
+        "What is the alphabetic representation of a musical note that comes after G but before B?",
+        "Which English alphabetical letter symbolizes a note that is higher than G but lower than B in music?",
+        "According to the musical notation, which letter comes after G and before B?",
+        "Which letter represents the musical note that lies between G and B?",
+        "In the musical scale, what is the letter denotation of a note that comes after G and precedes B?",
+        "Which letter denotes a musical note that's located between the notes G and B?",
+        "In musical terms, what is the letter that signifies a note that follows G but is before B?"
+    ],
+    "answers": [
+        "The letter A.",
+        "It is the letter A.",
+        "Typically, it is 'A'.",
+        "The note is symbolized by the letter 'A'.",
+        "The letter that comes after G and before B in musical notation is A.",
+        "In musical notation, A comes after G and before B.",
+        "Following G but preceding B in musical notation is the letter A.",
+        "The representation of the note between G and B in music is the letter A.",
+        "In music, the letter 'A' comes after G but before B.",
+        "The note situated between G and B is symbolized by the letter A in musical notation."
+    ],
+    "context": "thumb|Writing \"A\" in cursive font. A or a is the first letter of the English alphabet. The small letter, a or \u03b1, is used as a lower case vowel. When it is spoken, \u0101 is said as a long a, a Diphthong of \u0115 and y. A is similar to Alphabet of the Greek alphabet. That is not surprising, because it means the same sound. \"Alpha and Omega\" (the last letter of the Greek alphabet) means from beginning to the end. In musical notation, the letter A is the symbol of a note in the scale, below B and above G. A is the letter that was used to represent a team in an old TV show, The A-Team. A capital a is written \"A\". Use a capital a at the start of a sentence if writing. A is also a musical note, sometimes referred to as \"La\". ==Where it came from== The letter 'A' was in the Phoenician alphabet's aleph. This symbol came from a simple picture of an ox head. Egyptian Phoenician aleph Greek Alpha Etruscan A Roman/Cyrillic A Egyptian hieroglyphic ox head Phoenician aleph Greek alpha Etruscan A Roman A This Phoenician letter helped make the basic blocks of later types of the letter. The Greeks later modified this letter and used it as their letter alpha. The Greek alphabet was used by the Etruscans in northern Italy, and the Romans later modified the Etruscan alphabet for their own language. ==Using the letter== The letter A has six different sounds. It can sound like \u00e6, in the International Phonetic Alphabet, such as the word pad. Other sounds of this letter are in the words father, which developed into another sound, such as in the word ace. ==Use in mathematics== In algebra, the letter \"A\" along with other letters at the beginning of the alphabet is used to represent known quantities. In geometry, capital A, B, C etc. are used to label line segments, lines, etc. Also, A is typically used as one of the letters to label an angle in a triangle. Its letter shape is referred to abstractly in Sir William Vallance Douglas Hodge's 5th postulate, the basis for, as one of the Millennium Prize Problems, the Hodge Conjecture. ==References== Category:Basic English 850 words Category:Vowel letters"
+}

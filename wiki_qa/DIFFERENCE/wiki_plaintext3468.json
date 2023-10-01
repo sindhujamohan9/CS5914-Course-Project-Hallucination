@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Which country in the European Union is not governed by a presidential republic?",
+        "answer": "Slovenia"
+    },
+    "questions": [
+        "Which country doesn't operate a presidential system but is a part of the EU?",
+        "Which EU country is not classified as a Presidential Republic?",
+        "Can you name a country in the EU that is not a presidential republic?",
+        "Which country within the European Union does not practice a presidential form of government?",
+        "Which is a country in the European Union that doesn't have a Presidential style of government?",
+        "Which country, which is part of the EU, doesn't have a President as its chief of state?",
+        "Which EU member state does not follow a Presidential system of government?",
+        "Which country within the European Union does not have a President leading the country?",
+        "Which nation within the EU is not governed by a President?",
+        "What is the name of an EU country that does not have a presidential system?"
+    ],
+    "answers": [
+        "Republic of Slovenia",
+        "Slovenia in Southern Europe",
+        "The parliamentary republic of Slovenia",
+        "The country of Slovenia",
+        "Slovenia, a member of EU",
+        "Slovenia, a Southern European country",
+        "European Union member state, Slovenia",
+        "Slovenia, a European Union Member",
+        "Slovenia in the European Union",
+        "The small, open, and export-oriented economy country, Slovenia"
+    ],
+    "context": "Slovenia is a country in Southern Europe. The capital and largest city of Slovenia is Ljubljana. Its major language is Slovenian. Its current population is about 2.0 million. Slovenia's leading exports are manufactured goods and aluminium. It is a parliamentary republic It is a member of the European Union and NATO. The economy of Slovenia is small, open, and export-oriented. ==History== A very long time ago, Illyrian and Celtics tribes lived in Slovenia. In the 1st century BC, Slovenia was ruled by the Romans. In the sixth century AD, Slavs lived there. Slovenia was ruled by Austria from 1335 until 1918. In 1918 it became a part of Yugoslavia. During World War II, Italy, Hungary and Germany took parts of the country but in 1945 it became part of Yugoslavia again. In June 1991, following a 10-day war, Slovenia became an independent country. Currently, it is considered the most advanced country in what is called \"Ex-Yugoslavia.\" It is also a member of the European Union. ==Notable people== * France Pre\u0161eren (1800-1849) is a very famous poet in his country. * Melania Trump, Former First Lady of the United States ==Related pages== * List of rivers of Slovenia * Slovenia at the Olympics * Slovenia national football team ==References== ===Notes=== ==Other websites== * Slovenia.si. Your gateway to information on Slovenia. * Government of the Republic of Slovenia * Slovenia Official Tourist Guide Category:European Union member states"
+}

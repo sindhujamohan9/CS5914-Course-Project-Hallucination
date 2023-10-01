@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Which two countries use both the imperial gallon to sell petrol and use miles per hour for speed limits?",
+        "answer": "Antigua and Barbuda, Dominica"
+    },
+    "questions": [
+        "Name two nations where petrol is sold in imperial gallons and speed limits are in miles per hour.",
+        "Which two of the countries that use miles per hour for speed limits also sell petrol by the imperial gallon?",
+        "What are two nations where petrol is sold in imperial gallons and speed limits are indicated in miles per hour?",
+        "In what two countries is gasoline sold by the imperial gallon and speed limits are set in mph?",
+        "What two countries sell petrol by the imperial gallon and also use mph for speed limits?",
+        "Name two countries that sell petrol in imperial gallons and use miles per hour for speed limits.",
+        "What are two countries where petrol is sold in imperial gallons and speed is measured in miles per hour?",
+        "Which two countries sell petrol by imperial gallons and also use mph as a speed measure?",
+        "Name two countries that use the imperial gallon for petrol and mph for speed limits.",
+        "Can you name two countries where petrol is sold in imperial gallons and speed is measured in miles per hour?"
+    ],
+    "answers": [
+        "Dominica and Antigua and Barbuda",
+        "Antigua and Barbuda along with Dominica",
+        "Antigua & Barbuda, Dominica",
+        "The countries of Dominica and Antigua and Barbuda",
+        "Antigua and Barbuda as well as Dominica",
+        "Dominica, and Antigua and Barbuda",
+        "Both Antigua and Barbuda and Dominica",
+        "The nations of Antigua and Barbuda and Dominica",
+        "Antigua and Barbuda, and Dominica",
+        "In Dominica and Antigua and Barbuda"
+    ],
+    "context": "A gallon is a volumetric unit of measurement. People have used many different gallons throughout history. Only two gallons are still commonly used, which are the imperial and U.S. liquid gallon.This is 3,57 liter == Sale of petrol == Petrol, also known as gasoline, is sold by the imperial gallon in four British Overseas Territories (Anguilla, the British Virgin Islands, the Cayman Islands, and Montserrat) and six countries (Antigua and Barbuda, Dominica, Grenada, Saint Christopher and Nevis, Saint Lucia, and Saint Vincent and the Grenadines). All of the countries and territories just mentioned also use miles per hour for speed limits and drive on the left side of the road. Gasoline is sold by the U.S. gallon in Belize, Colombia, Dominican Republic, Ecuador, Guatemala, Haiti, Honduras, Liberia, Nicaragua, and Peru, as well as in the Marshall Islands, Federated States of Micronesia, and Palau. == Sizes == 1 imperial gallonhttps://www.legislation.gov.uk/ukpga/1985/72/schedules = 4.54609 litres (exactly) = 8 imperial pints = 160 imperial fluid ounces \u2248 1.20 U.S. wet gallons \u2248 1.03 U.S. dry gallons = 10 pounds of pure water at 62\u00b0 Fahrenheit 1 U.S. wet gallon = 231 cubic inches = 3 in \u00d7 7 in \u00d7 11 in **This is the gallon commonly used in the US.** = 128 U.S. fl. oz. = 8 U.S. wet pints = of a U.S. oil barrel = 3.785411784 litres (exactly) \u2248 0.83 imperial gallons \u2248 0.86 U.S. dry gallons \u2248 8.33 pounds of pure water at room temperature 1 U.S. dry gallon = 268.8025 cubic inches **Occasionally used in the US.** = 8 U.S. dry pints = of a U.S. bushel = 4.40488377086 litres (exactly) \u2248 0.97 imperial gallons \u2248 1.16 U.S. wet gallons ==References== Category:Imperial units Category:Units of volume"
+}

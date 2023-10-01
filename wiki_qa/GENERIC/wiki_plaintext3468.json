@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "What is the capital of Slovenia?",
+        "answer": "Ljubljana"
+    },
+    "questions": [
+        "What city serves as the capital of Slovenia?",
+        "Which is Slovenia's largest city?",
+        "What city is Slovenia's governmental headquarters?",
+        "Where is the capital of Slovenia located?",
+        "Which city is the political hub of Slovenia?",
+        "Can you tell me the capital city of Slovenia?",
+        "What city is Slovenia's administrative center?",
+        "Do you know the capital city of Slovenia?",
+        "Can you name the capital of Slovenia?",
+        "Where is the political center of Slovenia?"
+    ],
+    "answers": [
+        "Ljubljana",
+        "The capital of Slovenia is Ljubljana",
+        "Slovenia's capital is Ljubljana",
+        "The biggest city in Slovenia, Ljubljana",
+        "The city of Ljubljana in Slovenia",
+        "Ljubljana, the capital city of Slovenia",
+        "It's Ljubljana",
+        "Ljubljana in Slovenia",
+        "The Slovenian capital, Ljubljana",
+        "The city known as the capital of Slovenia is Ljubljana."
+    ],
+    "context": "Slovenia is a country in Southern Europe. The capital and largest city of Slovenia is Ljubljana. Its major language is Slovenian. Its current population is about 2.0 million. Slovenia's leading exports are manufactured goods and aluminium. It is a parliamentary republic It is a member of the European Union and NATO. The economy of Slovenia is small, open, and export-oriented. ==History== A very long time ago, Illyrian and Celtics tribes lived in Slovenia. In the 1st century BC, Slovenia was ruled by the Romans. In the sixth century AD, Slavs lived there. Slovenia was ruled by Austria from 1335 until 1918. In 1918 it became a part of Yugoslavia. During World War II, Italy, Hungary and Germany took parts of the country but in 1945 it became part of Yugoslavia again. In June 1991, following a 10-day war, Slovenia became an independent country. Currently, it is considered the most advanced country in what is called \"Ex-Yugoslavia.\" It is also a member of the European Union. ==Notable people== * France Pre\u0161eren (1800-1849) is a very famous poet in his country. * Melania Trump, Former First Lady of the United States ==Related pages== * List of rivers of Slovenia * Slovenia at the Olympics * Slovenia national football team ==References== ===Notes=== ==Other websites== * Slovenia.si. Your gateway to information on Slovenia. * Government of the Republic of Slovenia * Slovenia Official Tourist Guide Category:European Union member states"
+}

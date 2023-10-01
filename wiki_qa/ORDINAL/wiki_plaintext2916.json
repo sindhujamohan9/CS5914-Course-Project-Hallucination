@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Which was the last state to join the Federal Republic of Germany?",
+        "answer": "Th\u00fcringen"
+    },
+    "questions": [
+        "Which was the final state to become a part of Federal Republic of Germany?",
+        "As of the timeline mentioned, which state joined the Federal Republic of Germany last?",
+        "Which is the 16th state that became a part of Federal Republic of Germany?",
+        "Which state concluded the formation of Federal Republic of Germany?",
+        "Which state became the part of FRG last?",
+        "Can you tell me name of the last state that became a part of Federal Republic of Germany?",
+        "Which state joined the Federal Republic of Germany after all other states?",
+        "In the timeline of formation of Federal Republic of Germany, which state joined last?",
+        "What was the final state to become included in the Federal Republic of Germany?",
+        "Which state was the last one to be included in the Federal Republic of Germany?"
+    ],
+    "answers": [
+        "Erfurt",
+        "The state of Th\u00fcringen",
+        "It was Th\u00fcringen",
+        "Th\u00fcringen in Germany",
+        "The German state Th\u00fcringen",
+        "Th\u00fcringen state in Germany",
+        "German state called Th\u00fcringen",
+        "Th\u00fcringen state",
+        "It's Th\u00fcringen",
+        "Th\u00fcringen - the state in Germany"
+    ],
+    "context": "275px|thumb|States of Germany (in German) The Federal Republic of Germany (FRG) has 16 states (). The biggest is Bavaria and the smallest is Bremen. Most of them were created after the Second World War. Some states have historical roots from the early Middle Ages. State creation since 1949: * 1952: Three small states (Baden, W\u00fcrttemberg-Baden and W\u00fcrttemberg- Hohenzollern, part of Germany since 1949) joined to form Baden-W\u00fcrttemberg. * 1957: The Saar, which was put under French administration after World War II, joined the Federal Republic of Germany as the Saarland. * 1990: On German reunification, the reunited city of Berlin and the territory of the former German Democratic Republic joined the Federal Republic as six new states. Population and area in km\u00b2 as of November 2014: Flag and Bundesland German name Capital Population Area (km\u00b2) Part of FRG Baden-W\u00fcrttemberg Stuttgart 10,880,000 35,751 1952 Bayern Munich (M\u00fcnchen) 12,844,000 70,550 1949 Berlin Berlin 3,520,000 892 1990 Brandenburg Potsdam 2,485,000 29,654 1990 Bremen Bremen 671,000 420 1949 Hamburg Hamburg 1,787,000 755 1949 Hessen Wiesbaden 6,176,000 21,115 1949 Niedersachsen Hanover (Hannover) 7,927,000 47,593 1949 Mecklenburg-Vorpommern Schwerin 1,612,000 23,212 1990 Nordrhein-Westfalen (NRW) D\u00fcsseldorf 17,865,000 34,113 1949 Rheinland-Pfalz Mainz 4,053,000 19,854 1949 Saarland Saarbr\u00fccken 996,000 2,567 1957 Sachsen Dresden 4,085,000 18,449 1990 Sachsen-Anhalt Magdeburg 2,245,000 20,452 1990 Schleswig-Holstein Kiel 2,859,000 15,802 1949 Th\u00fcringen Erfurt 2,171,000 16,202 1990"
+}

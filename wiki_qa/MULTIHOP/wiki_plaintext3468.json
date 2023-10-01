@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Who is a notable person from Slovenia that served as the first lady of the United States?",
+        "answer": "Melania Trump"
+    },
+    "questions": [
+        "Which noted personality from Slovenia was married to a US President?",
+        "Who is the Slovene woman that moved to the United States and became a First Lady?",
+        "Can you name a Slovenian who has been a First Lady in the United States?",
+        "Which notable Slovene served as First Lady for the USA?",
+        "Who, from Slovenia, served as First Lady of America in the recent past?",
+        "Name a Slovenian who was a First Lady in the United States.",
+        "Can you tell me a notable person from Slovenia who also served as First Lady in America?",
+        "Who is the well-known personality from Slovenia who served as the First Lady of the United States?",
+        "Who, from Slovenia, married a president of the United States?",
+        "Who is the Slovenian that was married to the president of the United States?"
+    ],
+    "answers": [
+        "The former First Lady Melania Trump",
+        "Melania Trump who was the First Lady of the United States",
+        "First Lady Melania Trump",
+        "Melania, the wife of President Trump",
+        "The former First Lady of the US, Melania Trump",
+        "Melania Trump from Slovenia",
+        "Mrs. Trump, Melania from Slovenia",
+        "First Lady Melania Trump from Slovenia",
+        "Slovenian-born Melania Trump",
+        "The Slovenian woman who became First Lady, Melania Trump"
+    ],
+    "context": "Slovenia is a country in Southern Europe. The capital and largest city of Slovenia is Ljubljana. Its major language is Slovenian. Its current population is about 2.0 million. Slovenia's leading exports are manufactured goods and aluminium. It is a parliamentary republic It is a member of the European Union and NATO. The economy of Slovenia is small, open, and export-oriented. ==History== A very long time ago, Illyrian and Celtics tribes lived in Slovenia. In the 1st century BC, Slovenia was ruled by the Romans. In the sixth century AD, Slavs lived there. Slovenia was ruled by Austria from 1335 until 1918. In 1918 it became a part of Yugoslavia. During World War II, Italy, Hungary and Germany took parts of the country but in 1945 it became part of Yugoslavia again. In June 1991, following a 10-day war, Slovenia became an independent country. Currently, it is considered the most advanced country in what is called \"Ex-Yugoslavia.\" It is also a member of the European Union. ==Notable people== * France Pre\u0161eren (1800-1849) is a very famous poet in his country. * Melania Trump, Former First Lady of the United States ==Related pages== * List of rivers of Slovenia * Slovenia at the Olympics * Slovenia national football team ==References== ===Notes=== ==Other websites== * Slovenia.si. Your gateway to information on Slovenia. * Government of the Republic of Slovenia * Slovenia Official Tourist Guide Category:European Union member states"
+}

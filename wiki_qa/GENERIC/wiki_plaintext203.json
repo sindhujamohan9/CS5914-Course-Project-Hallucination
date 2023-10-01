@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "What is the difference between distance and displacement?",
+        "answer": "Distance is a scalar that measures how far one thing is from another, it can be measured along any path. Displacement is a vector that measures distance with a straight line and in only one path, and is the shortest way to travel the distance."
+    },
+    "questions": [
+        "What do you understand by the term distance?",
+        "How is displacement different from distance?",
+        "Can you explain the concept of distance and displacement?",
+        "What measures the shortest way to travel the distance, distance or displacement?",
+        "Is displacement a scalar or vector?",
+        "What is displacement?",
+        "Does the calculation of distance involve the use of Pythagorean theorem?",
+        "How can we measure distance?",
+        "Can distance be calculated along any path?",
+        "What is the difference between a scalar and a vector in relation to distance and displacement?"
+    ],
+    "answers": [
+        "Distance can be calculated along any path while displacement is measured with a straight line",
+        "Displacement measures the shortest way to travel the distance, while distance can be measured through any path",
+        "Distance is a scalar, it measures how far one thing is from another. Displacement on the other hand is a vector that measures this with a straight line",
+        "Distance can be measured in any way, but displacement measures the shortest path",
+        "Pythagorean theorem is often used in the calculation of distance",
+        "Distance is a scalar quantity that measures the space between two things along any path, while displacement measures this distance along a straight line and is a vector",
+        "To measure distance you can follow any path, but displacement only considers the straight line distance",
+        "Distance is the measure of how far one thing is from another, while displacement measures the shortest possible path to travel this distance",
+        "Displacement is a vector that measures the shortest path between two points, while distance can be measured on any path",
+        "Distance and displacement are different, with distance being a scalar measurement and displacement being a vector that measures the shortest path between two points"
+    ],
+    "context": "Distance is how far one thing is from another thing. It is also a measure of the space between two things. It can be measured along any path. Thus, someone who goes around in a circle has traveled a distance, even though his position has not changed. In geometry, the distance between two points A and B is sometimes written as \\overline{AB}. Pythagorean theorem is often used in the calculation of distance. Distance is a scalar, and thus is different from displacement. Displacement is a vector that measures distance with a straight line (and in only one path). Displacement is the shortest way to travel the distance. == Examples == * One ball is 5 feet from another ball. The distance between the two balls is 5 feet. * John walks at a speed of 6 kilometres per hour for one hour. John walks a distance of 6 kilometres. * A circle is a curved line. Each point on the circle is the same distance from the centre of the circle. == Related pages == * Euclidean distance * Norm (mathematics) == References == Category:Physical quantity Category:Mathematics Category:Geometry"
+}

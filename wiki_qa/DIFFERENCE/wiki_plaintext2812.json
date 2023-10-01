@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Which meteor shower does not occur every year?",
+        "answer": "The Leonid meteor shower"
+    },
+    "questions": [
+        "What meteor shower does not happen annually?",
+        "What meteor shower is not a yearly event?",
+        "Which meteor event doesn't take place every 12 months?",
+        "What meteor shower does not occur yearly?",
+        "Which meteor shower doesn't happen annually?",
+        "Which meteor stream doesn't occur every calendar year?",
+        "What meteor phenomenon is not a yearly event?",
+        "What meteor shower doesn't take place every single year?",
+        "What celestial event from meteors doesn't occur every year?",
+        "Which meteor shower isn't an annual event?"
+    ],
+    "answers": [
+        "The Leonids",
+        "The Leonid shower",
+        "Leonid meteor event",
+        "Leonid storm",
+        "Leonid meteor shower",
+        "The Leonid meteor star storm",
+        "The Meteor shower from Leonid",
+        "Leonid's meteor shower",
+        "The meteor storm of Leonid",
+        "The Leonid meteor event"
+    ],
+    "context": "thumb|250px|Meteor shower on chart. Because meteor shower particles are on parallel paths, at the same velocity, they appear to an observer to come from a single point in the sky. A meteor shower is an event when many meteors seem to come from one point in the night sky. These meteors are caused by meteoroids entering Earth's atmosphere at extremely high speeds on parallel paths. Most meteors are smaller than a grain of sand, so almost all of them burn up and never hit the Earth's surface. A meteor shower is the result of an interaction between a planet, such as Earth, and streams of debris from a comet.Whipple F.L. 1951. A comet model II. Physical relations for comets and meteors. Astrophys. J. 113, 464 Comets are dirty snowballs, made up of rock embedded in ice, orbiting the Sun. Each time a comet swings by the Sun in its orbit, some of its ice vaporizes and meteoroids will be shed. The meteoroids spread out along the entire orbit of the comet to form a meteoroid stream, also known as a \"dust trail\". Most of our short-period meteor showers are the product of rare disintegrations, when large chunks break off a mostly dormant comet.Jenniskens P. 2006. Meteor showers and their parent comets. Cambridge University Press. Examples are the Quadrantids and Geminids. They originated from a breakup of asteroid-like objects, 2003 EH1 and 3200 Phaethon, respectively, about 500 and 1000 years ago. The fragments tend to fall apart quickly into dust, sand, and pebbles, and spread out along the orbit of the comet to form a dense meteoroid stream, which later moves into Earth's path. The most visible meteor shower in most years are the Perseids, which peak on 12 August each year at over one meteor per minute. NASA has a useful tool to calculate how many meteors per hour are visible from your observing location. The Leonid meteor shower peaks around 17 November of each year. About every 33 years, the Leonid shower produces a big meteor storm, peaking at thousands of meteors per hour. Leonid storms gave birth to the term \"meteor shower\" when it was first realised, during the November 1833 storm, that the meteors radiated from near the star Gamma Leonis. The last Leonid storms were in 1999, 2001 (two), and 2002 (two). Before that, there were storms in 1767, 1799, 1833, 1866, 1867, and 1966. When the Leonid shower is not storming it is less active than the Perseids. == References == *"
+}

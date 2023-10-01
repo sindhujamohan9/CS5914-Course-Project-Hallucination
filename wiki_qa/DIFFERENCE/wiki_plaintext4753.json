@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Which type of ionizing radiation does not ionize all materials?",
+        "answer": "Ultraviolet radiation"
+    },
+    "questions": [
+        "What form of electromagnetic ionizing radiation doesn't ionize all materials?",
+        "Which ionizing radiation is selective in materials which it can ionize?",
+        "Tell me a type of ionizing radiation that doesn't affect every material?",
+        "What kind of ionizing radiation doesn't ionize every material?",
+        "Is there a type of ionizing radiation that can't ionize all substances?",
+        "Can you name a type of ionizing radiation that doesn't ionize all materials?",
+        "What type of ionizing radiation lacks the ability to ionize all materials?",
+        "Which kind of ionizing radiation isn't universally acting on all materials?",
+        "Does all ionizing radiation affect every material?",
+        "What type of ionizing radiation has limitations in the kind of materials it can ionize?"
+    ],
+    "answers": [
+        "Ultraviolet rays",
+        "The ultraviolet radiation",
+        "Radiation in the ultraviolet spectrum",
+        "UV radiation",
+        "It's the ultraviolet radiation",
+        "Ultraviolet light",
+        "Radiation of ultraviolet form",
+        "UV light",
+        "Radiation from the ultraviolet part of the electromagnetic spectrum",
+        "Ultraviolet form of radiation"
+    ],
+    "context": "thumb|Ionising radiation hazard symbol Ionizing radiation is a process in physics where something sends out particles or waves that can ionize an atom or molecule through atomic interactions. The strength of ionizing radiation depends on the energy of the individual particles or waves, and not a function of the number of particles or waves present. The material that the radiation can ionize depends on the ionization energy of the material. Ionizing radiation can be electromagnetic radiation or subatomic particles. Electromagnetic: * Gamma rays are electromagnetic waves of highest energy. * X-rays are less energetic. * Ultraviolet radiation only ionizes some materials. Subatomic particle radiation includes: * Alpha particle radiation, made of helium nuclei * Beta particle radiation, made of energetic electrons or positrons * Neutron radiation, made of neutrons Some radiation can go through the human body and other objects. Usually when people use the term radiation, they are talking specifically about potentially harmful types of ionizing radiation. If something produces this sort of radiation, we can say it is radioactive. There is a little radiation all around us all the time, which people's bodies are used to, but larger amounts of radiation can make people sick or kill them. Natural ionizing radiation is produced by radioactive decay of some chemical elements, such as uranium. Stars and other things in outer space also make radiation. See cosmic ray. Some isotopes that are radioactive only stay radioactive for much less than a second. Other things can stay radioactive for thousands of years. People and anything that lives gives off radiation naturally, because of the potassium and Carbon-14 inside. Some of the machines that make radiation are called particle accelerators. Scientists use these machines to make radiation so they can study it. X-ray machines also make radiation, so doctors can see the inside of the human body and help people. Nuclear weapons (atomic weapons) use a nuclear reaction to produce massive amounts of energy, in the form of heat, light, and radiation. This radiation is spread by the dust, ash, and smoke produced by the blast. Nuclear reactors are used to make electricity. They make a lot of radiation, but the reactors are built carefully to keep the radiation inside the reactor. But many people are afraid that if there were a problem with the reactor, radioactive material could escape into the environment, harming or killing many animals and people. Also, the parts of the reactor stay radioactive, and can kill people, for hundreds or thousands of years, so people are not sure where they can keep parts of old reactors safely away from people. == Uses == X-ray machines also make radiation, so doctors can see the inside of the human body and help people. Nuclear weapons (atomic weapons) use a nuclear reaction to produce massive amounts of energy, in the form of heat, light, and radiation. Nuclear reactors are used to make electricity. They make a lot of radiation, but the reactors are built carefully to keep the radiation inside the reactor. Alpha radiation is used in static eliminators and smoke detectors. Ionizing radiation are used to sterilize medical instruments. It is also used in radiation therapy, food irradiation and the sterile insect technique. == Related pages == *Acute radiation syndrome *Dirty bomb *Radiology == Other websites == *The Nuclear Regulatory Commission regulates most commercial radiation sources and non-medical exposures in the US: *Biological Effects of Low Level Exposures: Radiation Hormesis *Health Risks from Exposure to Low Levels of Ionizing Radiation: BEIR VII Phase 2 *NLM Hazardous Substances Databank - Ionizing Radiation *RISC-RAD is a European research project on assessment of low dose cancer risk *UNSCEAR 2000 Report, Volume 1: Sources *UNSCEAR 2000 Report, Volume 2: Effects *Beginners Guide to Ionising Radiation Measurement *Quantities, units and their relationships *Plans for homemade ionizing radiation meter *List of common household radioactive items *Ionizing radiation -Citizendium Category:Nuclear physics"
+}

@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "What does Phoebe, the moon of Saturn, not have?",
+        "answer": "Phoebe does not have any air, and there is no water on its surface."
+    },
+    "questions": [
+        "What elements are absent from Phoebe?",
+        "What cannot be found on the surface of Phoebe?",
+        "What is nonexistent on Phoebe?",
+        "What can't you find on Phoebe's surface?",
+        "Which natural substances does Phoebe lack?",
+        "On Phoebe, which elements are missing?",
+        "Which elements does Phoebe not possess?",
+        "What substances are not found on Phoebe?",
+        "What is Phoebe devoid of?",
+        "Which substances can't be found on Phoebe's surface?"
+    ],
+    "answers": [
+        "Phoebe lacks any air or water.",
+        "There's no air or water on Phoebe's surface.",
+        "Air and water are nonexistent on Phoebe.",
+        "Phoebe is devoid of air and water.",
+        "Both air and water are not found on Phoebe.",
+        "Phoebe has no air and water on its surface.",
+        "There is an absence of air and water on Phoebe.",
+        "There's a lack of air and water on Phoebe.",
+        "Air and water can not be found on Phoebe.",
+        "Phoebe does not contain water or air."
+    ],
+    "context": "thumb|A picture of the surface of Phoebe Phoebe is a moon which goes around (orbits) the planet called Saturn. It takes eighteen months for Phoebe to go all the way around Saturn. It is half made out of rock, and half made out of ice. The ground on Phoebe is black, which means that it is very dark when seen from Earth. Phoebe does not have any air, and there is no water on its surface. There are many craters on Phoebe. These are from asteroids and other things crashing into it, and leaving round marks on the surface. Phoebe is slightly irregular, which means that it is not perfectly round like a ball. It has an average diameter of 213 km. This means that the Earth's moon is 15 times bigger than Phoebe. The duration between two sunrises (rotation period) is only 9 hours and 16.5 minutes long. Category:Saturn's moons"
+}

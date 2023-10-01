@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Was Juan Per\u00f3n a president of Argentina?",
+        "answer": "Yes"
+    },
+    "questions": [
+        "Did Juan Per\u00f3n serve as the Argentine president?",
+        "Was Juan Per\u00f3n ever the President of Argentina?",
+        "Did Juan Per\u00f3n hold the presidency in Argentina?",
+        "Is it true that Juan Per\u00f3n was a President of Argentina?",
+        "Was the presidency of Argentina ever held by Juan Per\u00f3n?",
+        "Did Juan Per\u00f3n preside over Argentina as president?",
+        "Has Juan Per\u00f3n served as the President of Argentina?",
+        "Was the President of Argentina at one time Juan Per\u00f3n?",
+        "Did Argentina's presidency once belong to Juan Per\u00f3n?",
+        "In the past, was Juan Per\u00f3n the president of Argentina?"
+    ],
+    "answers": [
+        "Yes, he was.",
+        "Yes, indeed.",
+        "Yes, that's correct.",
+        "Correct, yes.",
+        "Yes, precisely.",
+        "Absolutely, yes.",
+        "Yes, that's true.",
+        "Affirmative.",
+        "Indeed, he was.",
+        "Undeniably, yes."
+    ],
+    "context": "== Events == * Roentgen discovers X-rays * Marconi invents the wireless telegraph * China and Japan sign the Treaty of Shimonoseki == Births == === January === === February === === March === === April === === May === === June === === July === === August === * August 24 \u2013 Abdul Rahman of Negeri Sembilan, 1st Yang di-Pertuan Agong (d. 1960) === September === === October === * October 8 \u2013 Juan Per\u00f3n, President of Argentina (d. 1974) * October 25 \u2013 Levi Eshkol, 3rd Prime Minister of Israel (d. 1969) === November === === December ==="
+}

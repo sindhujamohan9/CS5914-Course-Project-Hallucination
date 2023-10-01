@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Which state of Germany became part of FRG in 1952 and has Stuttgart as its capital?",
+        "answer": "Baden-W\u00fcrttemberg"
+    },
+    "questions": [
+        "Which state joined the Federal Republic of Germany in 1952 and has its capital at Stuttgart?",
+        "What state has Stuttgart as its capital and became part of FRG in 1952?",
+        "In 1952, which state with its capital as Stuttgart joined the FRG?",
+        "Which state, with Stuttgart as its capital, became a part of Federal Republic of Germany in 1952?",
+        "What is the name of the state that became part of FRG in 1952 and has the capital Stuttgart?",
+        "After World War 2, which state with Stuttgart as the capital joined the FRG in 1952?",
+        "Which German state that joined FRG in 1952 has Stuttgart as its capital city?",
+        "Which state, having Stuttgart as its capital, joined the Federal Republic of Germany in 1952?",
+        "Name the state that became part of Federal Republic of Germany in 1952 and has Stuttgart as its capital city?",
+        "What's the name of the German state that was established in FRG in 1952 and its capital city is Stuttgart?"
+    ],
+    "answers": [
+        "Baden-Wurttemberg",
+        "Baden W\u00fcrttemberg",
+        "The state of Baden-W\u00fcrttemberg",
+        "baden-wurttemberg",
+        "Baden-W\u00fcrttemberg State",
+        "The German State of Baden-W\u00fcrttemberg",
+        "Baden Wurttemberg",
+        "State of Baden-W\u00fcrttemberg in Germany",
+        "Baden-W\u00fcrttemberg, a state of Germany",
+        "Baden wurttemberg"
+    ],
+    "context": "275px|thumb|States of Germany (in German) The Federal Republic of Germany (FRG) has 16 states (). The biggest is Bavaria and the smallest is Bremen. Most of them were created after the Second World War. Some states have historical roots from the early Middle Ages. State creation since 1949: * 1952: Three small states (Baden, W\u00fcrttemberg-Baden and W\u00fcrttemberg- Hohenzollern, part of Germany since 1949) joined to form Baden-W\u00fcrttemberg. * 1957: The Saar, which was put under French administration after World War II, joined the Federal Republic of Germany as the Saarland. * 1990: On German reunification, the reunited city of Berlin and the territory of the former German Democratic Republic joined the Federal Republic as six new states. Population and area in km\u00b2 as of November 2014: Flag and Bundesland German name Capital Population Area (km\u00b2) Part of FRG Baden-W\u00fcrttemberg Stuttgart 10,880,000 35,751 1952 Bayern Munich (M\u00fcnchen) 12,844,000 70,550 1949 Berlin Berlin 3,520,000 892 1990 Brandenburg Potsdam 2,485,000 29,654 1990 Bremen Bremen 671,000 420 1949 Hamburg Hamburg 1,787,000 755 1949 Hessen Wiesbaden 6,176,000 21,115 1949 Niedersachsen Hanover (Hannover) 7,927,000 47,593 1949 Mecklenburg-Vorpommern Schwerin 1,612,000 23,212 1990 Nordrhein-Westfalen (NRW) D\u00fcsseldorf 17,865,000 34,113 1949 Rheinland-Pfalz Mainz 4,053,000 19,854 1949 Saarland Saarbr\u00fccken 996,000 2,567 1957 Sachsen Dresden 4,085,000 18,449 1990 Sachsen-Anhalt Magdeburg 2,245,000 20,452 1990 Schleswig-Holstein Kiel 2,859,000 15,802 1949 Th\u00fcringen Erfurt 2,171,000 16,202 1990"
+}

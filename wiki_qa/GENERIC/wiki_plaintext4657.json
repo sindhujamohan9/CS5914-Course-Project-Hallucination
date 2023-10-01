@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Who invented the wireless telegraph?",
+        "answer": "Marconi"
+    },
+    "questions": [
+        "Who is responsible for the invention of the wireless telegraph?",
+        "Who discovered the wireless telegraph?",
+        "Who was the one to create the wireless telegraph?",
+        "Who developed the concept of a wireless telegraph?",
+        "The wireless telegraph was invented by who?",
+        "Who is the person behind the invention of the wireless telegraph?",
+        "Who was the inventor of the wireless telegraph?",
+        "Who is the creator of the wireless telegraph?",
+        "The brainchild behind the wireless telegraph was who?",
+        "Can you tell me who invented the wireless telegraph?"
+    ],
+    "answers": [
+        "It was Marconi",
+        "Marconi, the Italian inventor",
+        "The person called Marconi",
+        "Guglielmo Marconi",
+        "The wireless telegraph was invented by Marconi",
+        "Marconi was the one who invented it",
+        "It's Marconi",
+        "The inventor was Marconi",
+        "The wireless telegraph was the creation of Marconi",
+        "The inventor is named Marconi"
+    ],
+    "context": "== Events == * Roentgen discovers X-rays * Marconi invents the wireless telegraph * China and Japan sign the Treaty of Shimonoseki == Births == === January === === February === === March === === April === === May === === June === === July === === August === * August 24 \u2013 Abdul Rahman of Negeri Sembilan, 1st Yang di-Pertuan Agong (d. 1960) === September === === October === * October 8 \u2013 Juan Per\u00f3n, President of Argentina (d. 1974) * October 25 \u2013 Levi Eshkol, 3rd Prime Minister of Israel (d. 1969) === November === === December ==="
+}

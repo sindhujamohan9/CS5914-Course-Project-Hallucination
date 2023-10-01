@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "How many countries has Slovenia been a part of in the past?",
+        "answer": "2"
+    },
+    "questions": [
+        "How many former ruling nations does Slovenia have?",
+        "How many different countries has Slovenia been a part of?",
+        "Under how many different countries was Slovenia ruled?",
+        "Count the nations Slovenia was previously a part of.",
+        "How many countries ruled over Slovenia in its history?",
+        "Slovenia has been a part of how many different countries?",
+        "What is the number of different countries Slovenia has been under?",
+        "What count of countries has Slovenia been a part of in history?",
+        "How many countries has Slovenia belonged to in the past?",
+        "How many countries has Slovenia been historically a member of?"
+    ],
+    "answers": [
+        "Two",
+        "2 countries",
+        "There were 2",
+        "It's two",
+        "Number is 2",
+        "Slovenia was part of 2 nations",
+        "Slovenia was formerly part of two countries",
+        "The answer is two",
+        "It has been a part of two countries",
+        "Slovenia was under two major nations"
+    ],
+    "context": "Slovenia is a country in Southern Europe. The capital and largest city of Slovenia is Ljubljana. Its major language is Slovenian. Its current population is about 2.0 million. Slovenia's leading exports are manufactured goods and aluminium. It is a parliamentary republic It is a member of the European Union and NATO. The economy of Slovenia is small, open, and export-oriented. ==History== A very long time ago, Illyrian and Celtics tribes lived in Slovenia. In the 1st century BC, Slovenia was ruled by the Romans. In the sixth century AD, Slavs lived there. Slovenia was ruled by Austria from 1335 until 1918. In 1918 it became a part of Yugoslavia. During World War II, Italy, Hungary and Germany took parts of the country but in 1945 it became part of Yugoslavia again. In June 1991, following a 10-day war, Slovenia became an independent country. Currently, it is considered the most advanced country in what is called \"Ex-Yugoslavia.\" It is also a member of the European Union. ==Notable people== * France Pre\u0161eren (1800-1849) is a very famous poet in his country. * Melania Trump, Former First Lady of the United States ==Related pages== * List of rivers of Slovenia * Slovenia at the Olympics * Slovenia national football team ==References== ===Notes=== ==Other websites== * Slovenia.si. Your gateway to information on Slovenia. * Government of the Republic of Slovenia * Slovenia Official Tourist Guide Category:European Union member states"
+}

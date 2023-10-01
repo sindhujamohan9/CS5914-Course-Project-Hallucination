@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Who was the second president of the United States?",
+        "answer": "John Adams"
+    },
+    "questions": [
+        "Who succeeded George Washington as president?",
+        "Who came after Washington in presidency?",
+        "Who was the president that followed George Washington?",
+        "Who was the second person to hold the position of U.S. president?",
+        "Following George Washington, who was the next president?",
+        "After George Washington, who was the president?",
+        "Which president of the United States was next after George Washington?",
+        "Who succeeded Washington in the office of the U.S. president",
+        "Who was the successor of George Washington in terms of being president?",
+        "George Washington was followed by who in the presidency?"
+    ],
+    "answers": [
+        "President John Adams",
+        "The second president - John Adams",
+        "The president after George Washington - John Adams",
+        "John Adams, second to serve as president",
+        "Second U.S. president, John Adams",
+        "President Number Two, John Adams",
+        "John Adams, successor to George Washington",
+        "U.S. President #2, John Adams",
+        "The second U.S. President: John Adams",
+        "John Adams, second in line as president"
+    ],
+    "context": "== Events == * The first photograph was taken. * John Adams second president, and third president Thomas Jefferson both died same day Independence Day. == Births == * January 12 \u2013 William Chapman Rawlston, banker and financier * January 26 \u2013 Louis Favre, Swiss engineer (d. 1879) * February 16 \u2013 Joseph Victor von Scheffel, German poet (d. 1886) * February 16 \u2013 Julia Grant, First Lady of the United States (d. 1902) * March 4 \u2013 Theodore Judah, railroad engineer (d. 1863) * March 24 \u2013 Matilda Joslyn Gage, pioneering feminist (d. 1898) * March 29 \u2013 Wilhelm Liebknecht, German journalist and politician (d. 1900) * April 6 \u2013 Gustave Moreau, French painter (d. 1898) * May 3 \u2013 King Charles XV of Sweden and Norway (d. 1872) * May 4 \u2013 Frederic Edwin Church, American painter (b. 1900) * June 24 \u2013 George Goyder, Surveyor-General of South Australia (d. 1898) * July 4 \u2013 Stephen Foster, American songwriter and poet (d. 1864) * September 17 \u2013 Bernhard Riemann, German mathematician (d. 1866) * November 13 \u2013 Charles Frederick Worth, English couturier (d. 1895) * November 24 \u2013 Carlo Collodi, Italian writer (d. 1890) == Deaths == * July 4 \u2013 John Adams, President of the United States * July 4 \u2013 Thomas Jefferson, President of the United States == Books == *Biographical Sketches and Interesting Anecdotes of Persons of Color \u2013 Abigail Mott *The Broken Heart \u2013 Catherine Gore *Cinq-Mars \u2013 Alfred de Vigny *Deeds of the Olden Time \u2013 Anne Hatton *Gaston de Blondeville \u2013 Ann Radcliffe *Granby \u2013 T.H. Lister *Die Harzreise (The Heart's Journey) \u2013 Heinrich Heine *Henry the Fourth of France \u2013 Alicia Lefanu *Honor O'Hara \u2013 Anna Maria Porter *The Last Man \u2013 Mary Shelley *The Last of the Mohicans \u2013 James Fenimore Cooper *Tales Round a Winter Hearth \u2013 Jane Porter & Anna Maria Porter *Vivian Grey \u2013 Benjamin Disraeli *Woodstock \u2013 Sir Walter Scott"
+}

@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "What is the term for the muscular movement pushing food down the oesophagus and where does the food end up after this process?",
+        "answer": "The term for the muscular movement pushing food down the oesophagus is peristalsis and the food ends up in the stomach as chyme after this process."
+    },
+    "questions": [
+        "What process helps in the movement of food down the oesophagus and where does it land after this?",
+        "What mechanism does the oesophagus use to push food down and what state does the food reach in the stomach?",
+        "Can you name the process that pushes food down the oesophagus and describe the final state of food in the stomach?",
+        "How does the oesophagus move food to the stomach and what is the final form of food in the stomach?",
+        "What is the name of the muscular movement in the oesophagus and how is the food churned in stomach?",
+        "Which process aids in the movement of food through the oesophagus and where does it lead to in stomach?",
+        "What propels food down the oesophagus and where does it reach in the stomach?",
+        "What term corresponds to the muscle movement in oesophagus and what is the state of food when it gets to the stomach?",
+        "What process is involved in the journey of food from mouth to stomach and what is the condition of food by the time it gets to stomach?",
+        "What is the muscular movement called that helps food move in oesophagus and what happens to food when it gets to stomach?"
+    ],
+    "answers": [
+        "The movement known as peristalsis pushes food down the oesophagus and it becomes chyme in the stomach.",
+        "Peristalsis helps in moving food towards the stomach and it ends up as chyme.",
+        "Food is propelled down the oesophagus by peristalsis and it becomes soupy chyme in the stomach.",
+        "Peristalsis is the muscular movement in the oesophagus that takes food to the stomach where it is churned into chyme.",
+        "Peristalsis aids in food movement down the oesophagus, and this food is converted into chyme in the stomach.",
+        "Through the process of peristalsis, food is moved down the oesophagus and it turns into chyme in the stomach.",
+        "The food is pushed into the stomach from the oesophagus by a movement called peristalsis and it is churned in the stomach and turned into chyme.",
+        "Peristalsis is the movement by which food travels through the oesophagus and it becomes chyme in the stomach.",
+        "The mechanism of peristalsis moves food down the oesophagus and it ends up becoming chyme in the stomach.",
+        "After being pushed down the oesophagus by peristalsis, food turns into chyme in the stomach."
+    ],
+    "context": "right|thumb|Oesophagus in the gastrointestinal system The oesophagus (or esophagus) is also called the gullet. It is the part of the gastrointestinal system between the mouth and the stomach. It connects the pharynx and the stomach. It is about long. The oesophagus is lined with muscle, and is lubricated. Its muscle pushes food down into the stomach. The oesophagus can contract or expand to allow for the passage of food. The muscular movement that pushes the food down the oesophagus is called peristalsis. At the entrance to the stomach there is a ring of muscle called a sphincter. This is usually closed, but relaxes as food approaches, allowing it to enter the stomach. In the stomach, the food is churned until it turns into a soupy mixture called chyme. Category:Anatomy of the digestive system"
+}

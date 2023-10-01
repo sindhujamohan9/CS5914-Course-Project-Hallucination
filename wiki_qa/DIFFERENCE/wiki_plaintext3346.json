@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Which country didn't adopt the German language as their official language?",
+        "answer": "Russia"
+    },
+    "questions": [
+        "In which country is German not the official language?",
+        "Which Eastern European country has not recognized German as an official language?",
+        "German is not the official language of which country?",
+        "In Russia, is German an official language?",
+        "Which country not mentioned as adopting German as an official language?",
+        "Which country among these did not adopt German as an official language: Germany, Austria, Switzerland, Russia?",
+        "Is German the official language in Russia?",
+        "Which country doesn't have German as an official language?",
+        "Unlike Switzerland, which country did not adopt German as an official language?",
+        "Is Russia an official German-speaking country?"
+    ],
+    "answers": [
+        "The country is Russia",
+        "It's Russia",
+        "Russia did not.",
+        "In Russia, German is not an official language.",
+        "German is not the official language of Russia.",
+        "Russia is the country where German isn't officially spoken.",
+        "It is Russia that has not adopted German as an official language.",
+        "The country you're referring to is Russia.",
+        "Russia did not adopt German as an official language.",
+        "The answer is Russia."
+    ],
+    "context": "German (German: Deutsch) is a West Germanic language. It is spoken in Germany, Austria, Switzerland, Liechtenstein and Luxembourg; natively by around 100 million people. It is the most widely spoken mother tongue in the first language. There are some people who speak German in Belgium, The Netherlands, France and Northern Italy. There are people who speak German in many countries, including the United States and Canada, where many people emigrated from Germany. It is also spoken in Eastern Europe, Bulgaria, Romania, and Russia. German is a part of the West Germanic language family and is much like English and Dutch. Much of the vocabulary in German is related to English, but the grammar is more complicated. German has a system of cases, and when helping verbs are used, the main part of the verb must be moved to the end of the sentence. For example, \"Someone has stolen my car\" is Jemand hat mein Auto gestohlen (\"Someone has my car stolen\"), and \"Someone called me last night\" is Jemand hat mich letzte Nacht angerufen (\"Someone has me last night called\"). In writing, every noun must start with a capital letter. German is the only language that still has that rule, but Danish and English did so a long time ago. Standard German is an official language in Switzerland, but the Swiss dialect of German is difficult to understand for native speakers from Germany and even for Swiss who are not native to speaking German. One reason that the dialects are still so different today is that even if Switzerland adopted Standard German, mostly as a written standard, German Swiss in World War II wanted to separate themselves from the Nazis by choosing to speak dialect over the Standard German. Swiss German also has some differences in spelling, for example, the letter \u00df, which is used only in German, is replaced by ss. thumb == Dialects == * Alsatian * Bavarian dialect * Franconian Dialect * K\u00f6lsch * Low Saxon * Swiss dialect * Mannheimerisch dialect * Palatinate German * Russian (Siberian) dialect == German numbers == German numbers are similar to their English counterparts. Like most languages, the German number system is based mainly on the first 10 numbers. They will pop up over and over throughout all the higher numbers. English German 1 Eins 2 Zwei 3 Drei 4 Vier 5 F\u00fcnf 6 Sechs 7 Sieben 8 Acht 9 Neun 10 Zehn ==References== Notes == Other websites == *Online German Language Course An online German language course that includes lessons covering pronunciation, vocabulary, and grammar. *German phrasebook at Wikivoyage *Learn to Speak German Student Resource *Free German Language Course *German Thesaurus"
+}

@@ -1,0 +1,31 @@
+{
+    "ground_truth": {
+        "question": "Which parts of the earlier country and province of Holland became part of other provinces during the French occupation and what were they?",
+        "answer": "Willemstad became part of North Brabant, the islands of Vlieland and Terschelling were given to Friesland, and the island of Urk to Overijssel"
+    },
+    "questions": [
+        "Where was Willemstad moved to during the French occupation?",
+        "Which two islands were given to Friesland during the French occupation?",
+        "Which part of the earlier province of Holland was given to Overijssel?",
+        "During the French occupation, Into which province was Willemstad incorporated?",
+        "To which province did the islands of Vlieland and Terschelling belong after the French occupation?",
+        "Where was the island of Urk moved during the French occupation?",
+        "What changes did the French occupation bring to the province layout of Holland?",
+        "Which territories were reassigned during the French occupation of Holland?",
+        "Which parts of Holland were re-distributed to other provinces during the French occupation?",
+        "Which province gained the island of Urk during the French occupation?"
+    ],
+    "answers": [
+        "Willemstad was made part of North Brabant",
+        "North Brabant was assigned Willemstad",
+        "During the French occupation, Willemstad was assigned to North Brabant",
+        "Friesland was given the islands of Vlieland and Terschelling",
+        "Vlieland and Terschelling were reassigned to Friesland",
+        "Under the French occupation, Friesland gained Vlieland and Terschelling",
+        "Urk was given to Overijssel",
+        "Overijssel got the island of Urk",
+        "During the French occupation, Overijssel was given the island of Urk",
+        "The island of Urk became a part of Overijssel during the French occupation"
+    ],
+    "context": "Holland is the name of a region in the western part of the Netherlands. Holland was a county of the Holy Roman Empire and later the leading province of the Republic of the Seven United Netherlands (1581\u20131795). Today, there is no country called \"Holland\". There are two provinces called \"Holland\" in the Netherlands: North Holland () and South Holland (). Those provinces were created in 1840. The earlier country and province of Holland used to be bigger, but some parts of that province were given to other provinces during the French occupation (1795-1813). For example, Willemstad became part of North Brabant, the islands of Vlieland and Terschelling were given to Friesland, and the island of Urk to Overijssel. But for a short time during that period (1806\u20131810), there was a country called \"Holland\", the Kingdom of Holland, which was in the central and northern Netherlands and East Friesland in Germany. Many people use the name \"Holland\" to refer to all of the Netherlands, including the other ten provinces. That is not correct and is like calling the United Kingdom, \"England\" or \"Great Britain\". Some Dutch people who do not live in Holland do not like it when people call the entire country Holland. But they don't mind using \"Holland\" when you mean the Dutch national football team, which they are used to calling \"Holland\". * Category:Regions of the Netherlands Category:Regions of South Holland Category:North Holland"
+}
